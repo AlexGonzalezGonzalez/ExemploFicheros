@@ -5,6 +5,7 @@
  */
 package exemploficheiros;
 
+import escribir.EscribirFichero;
 import lectura.LeerNumeros;
 import lectura.LeerObxetos;
 import lectura.LerFicheiro;
@@ -25,7 +26,7 @@ public class ExemploFicheiros {
 //      LeerPalabras pal = new LeerPalabras();
 //      LeerNumeros num = new LeerNumeros();
 //      LeerObjetos obj = new LeerObjetos();
-      EscribirFicheros escr = new EscribirFicheros();
+      EscribirFichero escr = new EscribirFichero();
 //      leer.leerLineas();
 //      pal.leerPalabras();
 //      num.leerNumeros();
