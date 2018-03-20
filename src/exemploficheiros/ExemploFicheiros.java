@@ -35,3 +35,4 @@ public class ExemploFicheiros {
 //      System.out.println(obj.numeroSuspensos(suspensos));
 escr.escribirFrases();
 }
+}
